@@ -5,4 +5,4 @@
 
 **Team**: Jason Lin@GT, Kartikay Goyle@UofT, Gayatri Joshi@CMU, Joe Qian@UCLA
 
-> PennApps Top 30 finalists
+> PennApps Top 30 finalist
